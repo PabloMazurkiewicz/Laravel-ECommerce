@@ -63,13 +63,3 @@
 - php artisan serve or use virtual host
 - Visit localhost:8000 in your browser
  
-## Screenshots :
-
-### User Part:
-
-![image](https://user-images.githubusercontent.com/85242568/152860342-139b5359-d193-4769-bb11-aee7efb59a4d.png)
-
-
-### Admin Part:
-
-![image](https://user-images.githubusercontent.com/85242568/152860571-151c75c6-23b4-4c98-90b9-d12d69b18d05.png)
