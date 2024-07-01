@@ -1,10 +1,9 @@
-## Furniture E-commerce website in Laravel 🛍️
+# Laravel : Furniture E-commerce website (PWA: Progressive Web App)
 
 
-### ▷ Features :
+## Features :
 
-- ##### PWA (progressive web app)
-====== FRONT-END =======
+====== USER =======
 
    - Login/Register/Logout.
    - Show products with homepage, categories, brands.
@@ -48,35 +47,29 @@
    - Pagination.
  
  
-### ▷ Installation :
+## Installation :
 
-1. Clone the repo and cd into it
-2. composer install
-3. Rename or copy .env.example file to .env
-4. php artisan key:generate
-5. Set your database credentials in your .env file
-6. Set your Braintree credentials in your .env file if you want to use PayPal
-7. Import db file(elaravel.sql) into your database (mysql,sql)
-8. npm install
-9. npm run watch
-10. run command[laravel file manager]:-  php artisan storage:link
-11. Edit .env file :- remove APP_URL
-10. php artisan serve or use virtual host
-11. Visit localhost:8000 in your browser
+- Clone the repo and cd into it
+- composer install
+- Rename or copy .env.example file to .env
+- php artisan key:generate
+- Set your database credentials in your .env file
+- Set your Braintree credentials in your .env file if you want to use PayPal
+- Import db file(elaravel.sql) into your database (mysql,sql)
+- npm install
+- npm run watch
+- run command[laravel file manager]:-  php artisan storage:link
+- Edit .env file :- remove APP_URL
+- php artisan serve or use virtual host
+- Visit localhost:8000 in your browser
  
-### ▷ Screenshots :
- </br>
- 
+## Screenshots :
+
+### User Part:
+
 ![image](https://user-images.githubusercontent.com/85242568/152860342-139b5359-d193-4769-bb11-aee7efb59a4d.png)
-![image](https://user-images.githubusercontent.com/85242568/152860452-967827c5-f180-4211-af63-8de9c75622c1.png)
-![image](https://user-images.githubusercontent.com/85242568/152860472-46da3acd-b94e-4d52-8d20-16ca91a914c1.png)
-![image](https://user-images.githubusercontent.com/85242568/152860495-249aa7fc-d8cf-4107-964e-1684c54af970.png)
-![image](https://user-images.githubusercontent.com/85242568/152860522-949d80db-a666-437b-8bbb-6365aaba7b2a.png)
-![image](https://user-images.githubusercontent.com/85242568/152860542-3a5d33ec-e8b8-4316-b444-708c6f1b77df.png)
+
+
+### Admin Part:
+
 ![image](https://user-images.githubusercontent.com/85242568/152860571-151c75c6-23b4-4c98-90b9-d12d69b18d05.png)
-![image](https://user-images.githubusercontent.com/85242568/152860601-800161ad-0a2a-44e8-8dd9-c201d9073ad4.png)
-![image](https://user-images.githubusercontent.com/85242568/152860637-351d670c-5b4e-40a2-aefe-9dd7cf856885.png)
-
-### ▷ Author: F.O.G_ntp(nguyenthanhphong)
-
-
